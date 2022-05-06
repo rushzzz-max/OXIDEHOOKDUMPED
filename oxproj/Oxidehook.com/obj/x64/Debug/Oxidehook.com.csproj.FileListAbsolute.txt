@@ -1,0 +1,13 @@
+C:\Users\felix.ampin\Desktop\Oxide\oxproj\Oxidehook.com\bin\Debug\Oxidehook.com.exe
+C:\Users\felix.ampin\Desktop\Oxide\oxproj\Oxidehook.com\bin\Debug\Oxidehook.com.pdb
+C:\Users\felix.ampin\Desktop\Oxide\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.csproj.AssemblyReference.cache
+C:\Users\felix.ampin\Desktop\Oxide\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.csproj.SuggestedBindingRedirects.cache
+C:\Users\felix.ampin\Desktop\Oxide\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.csproj.CoreCompileInputs.cache
+C:\Users\felix.ampin\Desktop\Oxide\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.exe
+C:\Users\felix.ampin\Desktop\Oxide\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.pdb
+C:\Users\hannes\Downloads\oxproj\oxproj\Oxidehook.com\bin\Debug\Oxidehook.com.exe
+C:\Users\hannes\Downloads\oxproj\oxproj\Oxidehook.com\bin\Debug\Oxidehook.com.pdb
+C:\Users\hannes\Downloads\oxproj\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.csproj.AssemblyReference.cache
+C:\Users\hannes\Downloads\oxproj\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.csproj.CoreCompileInputs.cache
+C:\Users\hannes\Downloads\oxproj\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.exe
+C:\Users\hannes\Downloads\oxproj\oxproj\Oxidehook.com\obj\x64\Debug\Oxidehook.com.pdb
